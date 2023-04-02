@@ -1,6 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6", "Task_6\Task_6.csproj", "{41FD34A0-16A3-4C8C-85D1-2D934E0ACD01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6_Fibonachi", "Task_6_Fibonachi\Task_6_Fibonachi.csproj", "{41FD34A0-16A3-4C8C-85D1-2D934E0ACD01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6_Class", "Task_6_Class\Task_6_Class.csproj", "{6D45D7A9-B3BE-4C6D-AC75-3C935E85FFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6_Method_in_Class", "Task6_Method_in_Class\Task6_Method_in_Class.csproj", "{CF503E3E-954D-4784-8D6E-B6B47CE81483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6_Cortege", "Task_6_Cortege\Task_6_Cortege.csproj", "{14AD0821-9F46-4DA7-B9D0-14DB35D51339}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +18,17 @@ Global
 		{41FD34A0-16A3-4C8C-85D1-2D934E0ACD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41FD34A0-16A3-4C8C-85D1-2D934E0ACD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41FD34A0-16A3-4C8C-85D1-2D934E0ACD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D45D7A9-B3BE-4C6D-AC75-3C935E85FFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D45D7A9-B3BE-4C6D-AC75-3C935E85FFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D45D7A9-B3BE-4C6D-AC75-3C935E85FFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D45D7A9-B3BE-4C6D-AC75-3C935E85FFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF503E3E-954D-4784-8D6E-B6B47CE81483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF503E3E-954D-4784-8D6E-B6B47CE81483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF503E3E-954D-4784-8D6E-B6B47CE81483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF503E3E-954D-4784-8D6E-B6B47CE81483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14AD0821-9F46-4DA7-B9D0-14DB35D51339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AD0821-9F46-4DA7-B9D0-14DB35D51339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AD0821-9F46-4DA7-B9D0-14DB35D51339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AD0821-9F46-4DA7-B9D0-14DB35D51339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
